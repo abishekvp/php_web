@@ -1,6 +1,6 @@
-const service_id = "service_3qjqtnp";
-const emailjsuserid = "b6_ycDLrcHsEq7EpR";
-const template_id = "template_18xrdaa";
+const service_id = "service_id";
+const emailjsuserid = "user_id";
+const template_id = "template_id";
 
 function frmid(id){
     return document.getElementById(id);
